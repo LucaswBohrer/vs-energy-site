@@ -1,0 +1,1 @@
+{"dependencies":{"react":"^18.3.1","react-dom":"^18.3.1"},"description":"Site demonstração em React + Vite para a VS Energy — Energia Solar (Campo Bom/RS)","devDependencies":{"@vitejs/plugin-react":"^4.3.1","vite":"^5.4.8"},"name":"vs-energy-site","private":true,"scripts":{"build":"vite build","dev":"vite","preview":"vite preview"},"type":"module","version":"1.0.0"}
